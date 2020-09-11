@@ -1,5 +1,5 @@
 # 01-Excel - Data Analysis and Visualization Course
-
+# Kickstarter Campaign Data
 # Function
 The data given is from different Kickstarter campaigns. It shows which ones were successful, and how much money they raised compared to their goal. 
 The purpose of this app was to clean up the data, organize it in rows, and highlight the successful and unsuccessful campaigns. This was done through filtering, creating rules and pivot tables. 
