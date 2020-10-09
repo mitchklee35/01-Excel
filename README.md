@@ -1,5 +1,5 @@
 # Kickstarter Campaign Data
-## CSV Organization and Pivot Table Analysis
+## Excel Organization and Pivot Table Analysis
 ### Function
 The data given is from different Kickstarter campaigns. It shows which ones were successful, and how much money they raised compared to their goal. 
 The purpose of this app was to clean up the data, organize it in rows, and highlight the successful and unsuccessful campaigns. This was done through filtering, creating rules and pivot tables. 
