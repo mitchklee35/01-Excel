@@ -12,3 +12,7 @@ Outcome Based on Goal: Groups by goal number and explains a line graph of percen
 Statistical Analysis: Organized by successful and failed, this gives the statistics of these projects compared to how many backers they had.  
 ### How to Run
 Open up the Excel file and click through each worksheet. 
+### Result
+![images](https://github.com/mitchklee35/Kickstarter-Campaign-Data/blob/master/Images/fail_vs_success_analysis.PNG)<br/>
+![images](https://github.com/mitchklee35/Kickstarter-Campaign-Data/blob/master/Images/succesful_campaigns.PNG)<br/>
+![images](https://github.com/mitchklee35/Kickstarter-Campaign-Data/blob/master/Images/sub_category_pivot_table.PNG)<br/>
